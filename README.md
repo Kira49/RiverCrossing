@@ -7,8 +7,8 @@ moving obstacles move from left to right. The player can move up, down, left and
 he/she touches any obstacle. As player crosses moving obstacle successfully, accrues 10 points and for
 crossing fixed obstacles 5 points. Only one player is playing at a given point of time. Your aim is to make
 players reach the other end of the river. The player wins the game based on
-a) Time taken to cross
-b) Points accrued while crossing obstacles
+(a) Time taken to cross
+(b) Points accrued while crossing obstacles
 
 INSTRUCTIONS:
     start the game as player 1 from the bottom.
